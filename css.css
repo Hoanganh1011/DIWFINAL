@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+}
+/*nav*/
+.nav-item {
+	font-size: 20px;
+	margin-left: 50px;
+}
+/*banner*/
+.banner{
+	background-color: #212129;
+	height: 750px;
+}
+.banner img {
+	width : 30%;
+	border-radius: 30px;
+
+}
+.container-fluid i {
+	font-size:30px;
+	color:white;
+	padding:20px 35px;
+}
+/*porfolio*/
+.portfolio img {
+	width :100%;
+	border-radius: 10px;
+}
+
+/*aboutme*/
+.col-4 img {
+	width: 100%;
+	border-radius: 30px;
+}
+.col-8 p {
+	font-size: 20px;
+}
+.aboutme {
+	height:850px;
+}
+/*contact*/
+form {
+	width: 70%;
+	all
+}
+.box {
+	border: none;
+	border-bottom:1px solid #515151; 
+}
